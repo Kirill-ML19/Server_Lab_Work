@@ -1,0 +1,17 @@
+
+build/
+
+server
+
+logs/
+
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+
+.vscode/
+
+.idea/
